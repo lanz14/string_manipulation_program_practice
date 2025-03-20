@@ -4,5 +4,6 @@
 first_name = input("First name: ")
 last_name = input("Last name: ")
 
-# convert in input full name into lower case
+# convert input full name into lower case
 # print the output
+print(f"\n{first_name.lower()} {last_name.lower()}")

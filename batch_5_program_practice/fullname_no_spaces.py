@@ -11,3 +11,4 @@ remove_space_firstname = first_name.strip()
 remove_space_lastname = last_name.strip()
 
 # print the full name with no spaces
+print(f"\n{remove_space_firstname} {remove_space_lastname}")

@@ -2,6 +2,9 @@
 
 # user's input
     # first name
+first_name = input("First name: ")
     # last name
+last_name = input("Last name: ")
+
 # remove unnecessary spaces
 # print the full name with no spaces

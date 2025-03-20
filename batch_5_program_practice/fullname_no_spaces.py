@@ -7,4 +7,7 @@ first_name = input("First name: ")
 last_name = input("Last name: ")
 
 # remove unnecessary spaces
+remove_space_firstname = first_name.strip()
+remove_space_lastname = last_name.strip()
+
 # print the full name with no spaces

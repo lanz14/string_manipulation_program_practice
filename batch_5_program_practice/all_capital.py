@@ -6,3 +6,4 @@ last_name = input("Last name: ")
 
 # convert the input into a capitalized string
 # print the output all capitalized
+print(f"\n{first_name.upper()} {last_name.upper()}")

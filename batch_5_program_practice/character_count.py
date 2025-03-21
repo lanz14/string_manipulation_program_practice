@@ -7,3 +7,4 @@ full_name = str(input("Input your full name: "))
 character_count = len(full_name.strip())
 
 # print the output
+print(f"{character_count}")

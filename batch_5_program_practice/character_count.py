@@ -4,4 +4,6 @@
 full_name = str(input("Input your full name: "))
 
 # count the characters
+character_count = len(full_name.strip())
+
 # print the output

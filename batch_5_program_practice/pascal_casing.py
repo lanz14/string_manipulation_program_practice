@@ -2,4 +2,6 @@
 
 # user's full name in incorrect casing
 # converting into pascal casing
+full_name = str(input("Input your full name: ")).title().replace(" ", "")
+
 # print output

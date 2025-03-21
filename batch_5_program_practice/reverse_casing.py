@@ -6,3 +6,4 @@ last_name = input("Last name: ")
 
 # reverse the casing
 # print the output
+print(f"\n{first_name.swapcase()} {last_name.swapcase()}")

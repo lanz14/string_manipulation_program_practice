@@ -2,4 +2,6 @@
 
 # user's full name
 # convert to snake case
+full_name = str(input("Input your full name: ")).lower().replace(" ", "_")
+
 # print output

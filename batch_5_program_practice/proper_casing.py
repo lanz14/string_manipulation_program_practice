@@ -6,3 +6,4 @@ last_name = input("Last name: ")
 
 # proper casing the inputted full name
 # print the proper cased full name
+print(f"\n{first_name.title()} {last_name.title()}")

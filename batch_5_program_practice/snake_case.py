@@ -5,3 +5,4 @@
 full_name = str(input("Input your full name: ")).lower().replace(" ", "_")
 
 # print output
+print(full_name)
